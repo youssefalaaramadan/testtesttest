@@ -1,0 +1,19 @@
+{
+    "name": "iti/youssef",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "license": "1",
+    "autoload": {
+        "psr-4": {
+            "Iti\\Youssef\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "koko"
+        }
+    ],
+    "minimum-stability": "stable"
+}
